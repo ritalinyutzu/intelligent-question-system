@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Model files
+*.pkl
+*.h5
+*.pth
+*.ckpt
+
+# Data files (keep templates)
+data/*.json
+!data/training_questions_template.json
+
+# Output files
+outputs/
+*.png
+*.jpg
+*.pdf
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API Keys
+.env
+config.json
+*_config.py
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Distribution
+*.tar.gz
+*.zip
