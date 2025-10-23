@@ -1,6 +1,6 @@
 # 智慧命題 2.0 - 商業潛力分析報告
 
-> **執行摘要：** 本專案透過 Lasso Regression + Perplexity + Low Temperature 技術，實現科學化的 AI 命題系統，具備降低 60-93% 命題成本的潛力，可應用於線上教育、補習班、企業培訓等多個市場，估計市場規模達數十億美元。
+> **執行摘要：** 本專案透過 Lasso Regression + Perplexity + Low Temperature 技術，實現科學化的 AI 命題系統，具備降低 60-93% 命題成本的潛力，可應用於線上教育、補習班、企業培訓等多個市場。
 
 **分析日期：** 2025-10-22  
 **專案名稱：** Intelligent Question System v2.0  
